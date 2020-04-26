@@ -1,0 +1,25 @@
+{
+  "name": "generator-rt",
+  "version": "0.1.0",
+  "description": "react + redux + material-ui template generator",
+  "files": [
+    "../app"
+  ],
+  "keywords": [
+    "rt",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.9.0",
+    "chalk": "^4.0.0",
+    "yosay": "^2.0.2",
+    "change-case": "^4.1.1",
+    "camel-case": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antony Penza penzaav@gmail.com",
+  "license": "ISC"
+}
