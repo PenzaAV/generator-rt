@@ -1,6 +1,6 @@
 {
   "name": "generator-rt",
-  "version": "0.1.2",
+  "version": "0.1.2.0",
   "description": "react + redux + material-ui template generator",
   "files": [
     "../app"
